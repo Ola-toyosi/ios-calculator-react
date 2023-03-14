@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import Container from "./components/Container";
 import Screen from "./components/Screen";
 import ButtonBox from "./components/ButtonBox";
+import Footer from "./components/Footer";
 import Buttons from "./components/Buttons";
 import React, { useState } from "react";
 
@@ -183,6 +184,7 @@ function App() {
           );
         })}
       </ButtonBox>
+      <Footer className="link" link="https://github.com/Ola-toyosi/" title=" Ola Oluwatoyosi"/>
     </Container>
   );
 }

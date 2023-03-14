@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;
+    font-family: 'Roboto', serif;
+    font-size: 12px;
+    padding: 20px;
+    color: black;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: purple;
+}
