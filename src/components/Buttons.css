@@ -8,6 +8,7 @@ button {
     font-weight: 100;
     color: #ffffff;
     border-radius: 50%;
+    border: 0px;
 }
 
 .color{
