@@ -1,4 +1,4 @@
-import { textfit } from "react-texfit"
+import { Textfit } from "react-textfit"
 import "./Screen.css"
 
 // Displays Input and Calculation Results
